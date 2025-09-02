@@ -86,5 +86,5 @@ MIT License – see the [LICENSE](LICENSE) file.
 ---
 
 ## 📬 **Contact**
-For queries or feedback, open an issue or reach out to [Manish9211Ram](https://github.com/nxtman0z).
+For queries or feedback, open an issue or reach out to [nxtman0z](https://github.com/nxtman0z).
 
